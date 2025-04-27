@@ -1,0 +1,4 @@
+level1 filter=lfs diff=lfs merge=lfs -text
+level2 filter=lfs diff=lfs merge=lfs -text
+level3 filter=lfs diff=lfs merge=lfs -text
+readme.txt filter=lfs diff=lfs merge=lfs -text
